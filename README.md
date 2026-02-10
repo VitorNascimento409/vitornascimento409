@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Vitor
 
-<!--
-**VitorNascimento409/vitornascimento409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento front-end e estou em transição para a área de tecnologia.  
 
-Here are some ideas to get you started:
+Atualmente, estou focado em Desenvolvimento Front-End, criando interfaces modernas, responsivas e funcionais para praticar lógica, estrutura e estilo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho conhecimentos em HTML5, CSS3 e JavaScript e venho desenvolvendo projetos para evoluir constantemente.
+
+Destaco que, no decorrer da minha carreira profissional fui reconhecido pelo rápido aprendizado, bom relacionamento interpessoal e determinação.
+
+## 🚀 Tecnologias que estou estudando
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git e GitHub  
+
+## 🎯 Objetivo
+Busco uma oportunidade na área, com vontade de aprender, contribuir e transformar as ideias em soluções.
+
+## 📂 Meus projetos
+Aqui você encontrará projetos de estudo, exercícios e pequenos sites desenvolvidos durante meus cursos e práticas pessoais.
+
+## 📫 Como me encontrar
+- LinkedIn: https://www.linkedin.com/in/vitor-nascimento-9b629017a/
+- Email: vitornascimento409@gmail.com
