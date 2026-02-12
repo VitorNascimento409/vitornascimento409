@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Vitor
 
-Sou estudante de desenvolvimento front-end e estou em transição para a área de tecnologia.  
+Sou estudante de desenvolvimento front-end.  
 
 Atualmente, estou focado em Desenvolvimento Front-End, criando interfaces modernas, responsivas e funcionais para praticar lógica, estrutura e estilo.
 
